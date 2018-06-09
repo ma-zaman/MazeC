@@ -1,0 +1,2 @@
+# MazeC
+Terminal maze game
